@@ -42,11 +42,11 @@ public class Main {
             System.out.println("Erste!");
         } else if (zweiteZahl == 2) {
             System.out.println("Zweite!");
-            if ( dritteZahl ==2) {
-                System.out.println("Dritte!");
-            } else {
-                System.out.println("aber die Dritte nicht!");
-            }
+        } else if ( dritteZahl ==2) {
+            System.out.println("Dritte!");
+        //} else {
+            //System.out.println("aber die Dritte nicht!");
+            //}
            // if (dritteZahl ==3) {
               //  System.out.println("Dritte!");
             //}
